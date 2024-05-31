@@ -1,4 +1,11 @@
-Students management system
-Spring boot application that manages students data , allows you the following Cruds  : Data manipulations on students and on their courses grades , Upload  image for a student (AWS S3) , Filter students by various parameters , Send a sms message to students for  Authentication and create a user in order to use the application.
+# Students Management System
+Engineered a Spring Boot application for comprehensive management of student data. Implemented CRUD operations for students and grades, along with image uploading and SMS notifications. Integrated PostgreSQL, Docker, AWS (S3), JWT, and Spring Boot Java to create a robust and scalable system.
 
-Tech stack : Backend: Spring Boot Java Database: Postgres Containerization: Docker Cloud: AWS (S3) Security and Authentication: JWTSpring boot application that manages students data , allow you : Crud operations on students and on their courses grades Upload and image for a student (AWS S3) Filter students by various parameters Send a sms message to students Authentication and create a user in order to use the application Tech stack : Backend: Spring Boot Java Database: Postgres Containerization: Docker Cloud: AWS (S3) Security and Authentication: JWT Skills: Amazon Web Services (AWS) · JWT · Pagination · Spring Boot · Docker · PostgreSQ
+## Tech stack : 
+
+
+### Backend: Spring Boot (Java)
+### Database: PostgreSQL
+### Containerization: Docker
+### Cloud: AWS (S3)
+### Security and Authentication: JWT
